@@ -2,7 +2,6 @@
 
 import random
 from typing import Callable, Dict, List, Tuple, TypeVar
-
 from util import *
 
 FeatureVector = Dict[str, int]
